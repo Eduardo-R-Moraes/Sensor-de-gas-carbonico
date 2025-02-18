@@ -1,3 +1,6 @@
+# Sobre:
+Primeira aula de Projetos de IoT que visa entender: frequência, conectividade, Arduino e Esp32.
+
 ## Integrantes:
 - Bernardo Braga
 - Daniel Lucas
