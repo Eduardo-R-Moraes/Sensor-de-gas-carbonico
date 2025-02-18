@@ -1,5 +1,5 @@
 # Sobre:
-Primeira aula de Projetos de IoT que visa entender: frequência, conectividade, Arduino e Esp32.
+Primeira aula de Projetos de IoT que visa entender: frequência, conectividade, Arduino e Esp32. Foi utilizado o sensor MQ-2.
 
 ## Integrantes:
 - Bernardo Braga
